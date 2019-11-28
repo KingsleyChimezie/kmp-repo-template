@@ -9,16 +9,19 @@ Description - enter a short description
 ## Instructions
 
 ### Video Guide
-[![<Enter Alt Text - KMP>](http://img.youtube.com/vi/ovHmkheADOE/0.jpg)](http://www.youtube.com/watch?v=ovHmkheADOE "<ENTER VIDEO TITLE>")
+[![<Enter Alt Text - KMP>](http://img.youtube.com/vi/xgejrQbZO7o/0.jpg)](https://youtu.be/xgejrQbZO7o "KMP Website initialiser setup guide")
 
 ### Written Guide
+1. Step 1   
+***"instructions"***  
+```Multi link code```
 
-**Step 1**  
-text  
-```multiline code``` or `single line code`
 
-### Step 2
-> Block quote  
+2. Step 2  
+
+- 2.2
+
+- 2.3  
 
 
 ---
@@ -26,18 +29,17 @@ text
 * MIT - Copyright (c) 2019 Kingsley Chimezie - Kingsley Media Productions
 
 ## Project People
-| Title              	| Name                	| Website                  	|
-|-------------------	|-------------------	|--------------------------	|
-| Author +        	| Kingsley Chimezie 	| http://www.kingsley.tech 	|
+| Name                	|  Title              	|  Authority Level      | Website                  	|
+|-------------------	| -------------------	| -------------------	|--------------------------	|
+| Kingsley Chimezie 	|  Author +        	    |  Admin +        	    | http://www.kingsley.tech 	|
 
-For more info on title definition -  [click here](https://bitbucket.org/kingsleymedia-team/kmp-repo-template/src/master/assets/title.md)
+[Click here for **title** and **authority level** definitions.](https://bitbucket.org/kingsleymedia-team/kmp-repo-template/src/master/copy-this-and-use-as-repo/assets/title.md)
 
 ## Acknowledgments
 *
 ## Versions
-| No.   	                | Release Date 	|
-|------------------------------ |--------------	|
-| [1.0.0 (current)](addLink) 	| yyyy-mm-dd   	|
+- [Click here](https://url-where-versions-are-kept)
+
 
 
 ## References
